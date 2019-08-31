@@ -87,7 +87,7 @@ https://github.com/Build-Week-Safe-Routes/Backend/blob/temporary-seed/data/migra
 If set `threshold*=0.2`, then `recall score**=0.81`, `precision***=0.31`  
 ``` 
 * threshold=0.2, if accident predicted likelihood<=0.2, no accident; 
-if likelihood>0.2, there will be an accident;   
+  if likelihood>0.2, there will be an accident;   
 ** recall score=0.81, 81% of both accident and non-accident events in history data are predicted   
 *** precision=0.31, 31% of accident in history data are predicted   
 ```
