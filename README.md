@@ -4,7 +4,10 @@ DS5 Unit 3 Sprint 4 Build Week
 
 ## Product  
 
-https://safe-routes-web.netlify.com/
+Visit the app    
+https://safe-routes-web.netlify.com/    
+Demo Video    
+https://youtu.be/p3gCGKdxkok?t=763    
 
 ## Deliverables  
 
